@@ -91,7 +91,7 @@ Crop2Cart bridges this gap by offering a **direct farmer-to-buyer marketplace** 
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
-git clone https://github.com/your-username/FarmConnect.git
+git clone https://github.com/shiyam17/crop2cart.git
 
 
 2. Navigate to the project directory  
