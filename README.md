@@ -91,3 +91,49 @@ Crop2Cart bridges this gap by offering a **direct farmer-to-buyer marketplace** 
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
+git clone https://github.com/your-username/FarmConnect.git
+
+
+2. Navigate to the project directory  
+
+
+cd FarmConnect
+
+
+3. Install dependencies  
+
+
+flutter pub get
+
+
+4. Run the application  
+
+
+flutter run
+
+
+---
+
+## 🚀 Future Enhancements
+
+- AI-based price prediction
+- Logistics and delivery integration
+- Government scheme notifications
+- Weather and crop advisory system
+- Blockchain-based transaction transparency
+
+---
+
+## 👨‍💻 Author
+
+Developed as a solution to empower farmers and promote fair trade through technology.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
