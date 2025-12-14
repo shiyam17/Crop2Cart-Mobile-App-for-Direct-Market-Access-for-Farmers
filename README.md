@@ -97,7 +97,7 @@ git clone https://github.com/shiyam17/crop2cart.git
 2. Navigate to the project directory  
 
 
-cd FarmConnect
+cd crop2cart
 
 
 3. Install dependencies  
